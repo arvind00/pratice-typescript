@@ -1,0 +1,24 @@
+{
+  "name": "pratice-typescript",
+  "version": "1.0.0",
+  "description": "a project to learn and practice typescript",
+  "main": "index.js",
+  "scripts": {
+    "start:watching": "npx tsc -w",
+    "start": "node ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvind00/pratice-typescript.git"
+  },
+  "keywords": [],
+  "author": "arvindchand <to.arvmail@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arvind00/pratice-typescript/issues"
+  },
+  "homepage": "https://github.com/arvind00/pratice-typescript#readme",
+  "dependencies": {
+    "typescript": "^4.6.2"
+  }
+}
